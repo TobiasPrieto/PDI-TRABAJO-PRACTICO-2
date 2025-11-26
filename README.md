@@ -1,5 +1,9 @@
 # Trabajo Práctico 2 - Procesamiento Digital de Imágenes (PDI)
 
+## Integrantes
+- Esteva Matias (E-1253/1)
+- Prieto Tobias (P-5260/4)
+
 Este repositorio contiene la solución al Trabajo Práctico 2 de la materia Procesamiento Digital de Imágenes. El proyecto se divide en dos ejercicios principales que utilizan técnicas de visión por computadora para la detección, clasificación y conteo de objetos.
 
 ## Contenido del Repositorio
