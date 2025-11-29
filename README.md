@@ -1,10 +1,10 @@
-# Trabajo Práctico 2 - Procesamiento Digital de Imágenes (PDI)
+# Trabajo Práctico 2 - Procesamiento De Imágenes (PDI)
 
 ## Integrantes
 - Esteva Matias (E-1253/1)
 - Prieto Tobias (P-5260/4)
 
-Este repositorio contiene la solución al Trabajo Práctico 2 de la materia Procesamiento Digital de Imágenes. El proyecto se divide en dos ejercicios principales que utilizan técnicas de visión por computadora para la detección, clasificación y conteo de objetos.
+Este repositorio contiene la solución al Trabajo Práctico 2 de la materia Procesamiento De Imágenes. El proyecto se divide en dos ejercicios principales que utilizan técnicas de visión por computadora para la detección, clasificación y conteo de objetos.
 
 ## Contenido del Repositorio
 
@@ -20,7 +20,7 @@ Este repositorio contiene la solución al Trabajo Práctico 2 de la materia Proc
 
 *   **`tp2_ejercicio2.py`**:
     *   **Objetivo**: Detección y segmentación de patentes vehiculares.
-    *   **Funcionalidad**: Procesa un conjunto de imágenes (`img01.png` a `img12.png`) para localizar la patente basándose en características morfológicas y geométricas (relación de aspecto). Posteriormente, segmenta y resalta los caracteres individuales dentro de la patente detectada.
+    *   **Funcionalidad**: Procesa un conjunto de imágenes (`img01.png` a `img12.png`) para localizar la patente basándose en características morfológicas y geométricas. Posteriormente, segmenta y resalta los caracteres individuales dentro de la patente detectada.
     *   **Entrada**: Imágenes `img01.png` a `img12.png`.
     *   **Salida**: Muestra secuencialmente las imágenes procesadas con la patente y sus caracteres resaltados.
 
@@ -63,4 +63,4 @@ Ejecuta el siguiente comando en la terminal:
 python tp2_ejercicio2.py
 ```
 
-El script procesará las imágenes una por una. Se mostrarán ventanas emergentes con los resultados de la detección para cada imagen. Debes cerrar la ventana actual para que el script proceda a mostrar la siguiente imagen.
+El script procesará las imágenes una por una. Se mostrarán ventanas emergentes con los resultados de la detección para cada imagen.
